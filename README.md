@@ -1,5 +1,7 @@
 ### Hi there, I'm Won-Kyung 👋 
 
+<p align="center">I am a full stack developer mostly working on web development. </p>
+
 <!--
 **wonkyung/wonkyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
